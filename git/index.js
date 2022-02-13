@@ -1,3 +1,2 @@
 console.log("Hello world");
-
-console.log("Nguyen Minh Nha");
+console.log("Test pull request");
