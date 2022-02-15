@@ -1,1 +1,3 @@
-console.log("Hi Nguyen Minh Nha");
+console.log("Test git stash");
+
+console.log("Test git cherry-pick");
